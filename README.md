@@ -6,5 +6,5 @@
 ## Technical Background
 I have experice writing in  Python, Java, C and SQL. Most of my experience with python has to do with math packages such as NumPy, SymPy, and MatplotLib.
 
-![bus driver][https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5l1hPMDzF8kDA8aizldAZenibyw-tTPOfRH3VVrAj4GJVMHlmVBMw4Hc0Rv3DW_kGyzQ&usqp=CAU]
+![bus driver](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5l1hPMDzF8kDA8aizldAZenibyw-tTPOfRH3VVrAj4GJVMHlmVBMw4Hc0Rv3DW_kGyzQ&usqp=CAU)
 
