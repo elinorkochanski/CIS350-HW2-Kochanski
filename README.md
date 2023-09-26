@@ -1,6 +1,6 @@
 # Elinor Kochanski
 + Senior at GVSU majoring in Applied Mathematics with a minor in Computer Science.
-+ I enjoy drawing,playnig board games, and discovering new music in my free time.
++ I enjoy drawing, playing board games, and discovering new music in my free time.
 + Interested in data analytics and mathematical research.
 
 ## Technical Background
